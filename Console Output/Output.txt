@@ -1,0 +1,7 @@
+FireFox browser has been opened
+Test Case Passed : Newly arrived mobile phones are displayed.
+Newest Arrivals option got selected successfully.
+
+Chrome browser has been opened
+Test Case Passed : Newly arrived mobile phones are displayed.
+Newest Arrivals option got selected successfully.
